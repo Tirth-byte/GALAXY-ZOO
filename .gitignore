@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.idea/
+data/
+new_images/
+models/
+.DS_Store
+output/*.csv
+output/*.xlsx
+GalaxyZoo1_DR_table2.csv
